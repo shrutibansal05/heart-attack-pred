@@ -5,6 +5,9 @@ The health care industries collect huge amounts of data that contain some hidden
 ### In command prompt type
 python app.py
 
+## Below is the flowchart of how the website works
+![Screenshot (385)](https://user-images.githubusercontent.com/89383936/137005765-7d8d417a-0ba0-4b37-abba-67117f427650.png)
+
 ## Here are some of the screenshots of website
 ### Initial Page 
 ![Screenshot (386)](https://user-images.githubusercontent.com/89383936/137005226-321016aa-430b-4894-b576-0e348987b7f8.png)
